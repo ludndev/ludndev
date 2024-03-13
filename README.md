@@ -50,13 +50,7 @@
 
 -->
 
-
-
-
 <!--
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludndev&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludndev&layout=compact)
 
 **ludndev/ludndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

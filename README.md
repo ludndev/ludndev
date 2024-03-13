@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://judicael-ahyi.com" target="blank">Judicaël AHYI</a></h1>
-<h3 align="center">A passionate Software Engineer from Benin Republic 🇧🇯</h3>
+<h3 align="center">A passionate Software Engineer & DevSecOps (Junior) from Benin Republic 🇧🇯</h3>
 
 <h4 align="center">"Talk is cheap. Show me the code"</h4>
 <h5 align="center">- Linus Torvalds -</h5>

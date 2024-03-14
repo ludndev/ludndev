@@ -26,6 +26,8 @@
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=ts"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=kafka"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=terraform"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=flask"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=jenkins"/>](#)
 
 #### Tools:
 

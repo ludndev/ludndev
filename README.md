@@ -4,6 +4,12 @@
 <h4 align="center">"Talk is cheap. Show me the code"</h4>
 <h5 align="center">- Linus Torvalds -</h5>
 
+<div align="center" style="text-align: center;">
+
+  [![wakatime](https://wakatime.com/badge/user/018e4df7-3f7e-4ad7-9785-bbae8eebc885.svg)](https://wakatime.com/@018e4df7-3f7e-4ad7-9785-bbae8eebc885)
+
+</div>
+
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/ludndev/ludndev/master/images/a9ec4acc3ef14c420607f4b7f7a968f6.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">

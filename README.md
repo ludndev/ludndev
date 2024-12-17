@@ -11,6 +11,16 @@
 
 </div>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ludndev"
+    width="600"
+    height="120"
+  />
+</a>
+
+
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/ludndev/ludndev/master/images/a9ec4acc3ef14c420607f4b7f7a968f6.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">

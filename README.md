@@ -12,7 +12,7 @@
 </div>
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://render.gitanimals.org/lines/ludndev">
   <img
     src="https://render.gitanimals.org/lines/ludndev"
     width="600"

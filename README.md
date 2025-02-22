@@ -12,7 +12,7 @@
 </div>
 
 
-<a href="https://render.gitanimals.org/lines/ludndev" target="_blank">
+<a href="https://github.com/ludndev" target="_blank">
   <img
     src="https://render.gitanimals.org/lines/ludndev"
     width="600"

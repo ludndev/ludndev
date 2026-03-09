@@ -26,13 +26,15 @@
 <img src="https://raw.githubusercontent.com/ludndev/ludndev/master/images/a9ec4acc3ef14c420607f4b7f7a968f6.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=nodejs"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=ts"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=js"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=php"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=laravel"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=python"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=flask"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=java"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=spring"/>](#)
-  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=python"/>](#)
-  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=nodejs"/>](#)
-  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=js"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=mysql"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=postgres"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=mongodb"/>](#)
@@ -40,10 +42,9 @@
 
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=rust"/>](#)
-  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=ts"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=kafka"/>](#)
+  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=rabbitmq"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=terraform"/>](#)
-  [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=flask"/>](#)
   [<img height="48px" width="48px" alt="Icon" src="https://skillicons.dev/icons?i=jenkins"/>](#)
 
 #### Tools:
